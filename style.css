@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: "Josefin Sans", sans-serif;
+}
+html{
+    font-size: 20px;
+}
+h1{
+    font-size: 2rem; letter-spacing :1.2em; text-shadow:1px 1px 3px;
+    border-width:0 0 3px 0;
+    border-style: solid;
+    border-color:rgb(115, 115, 114);
+}
+.ao{
+    color: skyblue;
+}
+.pink{
+    color: rgb(255, 192, 203);
+}
+html{
+    text-align: center;
+}
+#basic p{
+    font-weight:bold;
+}
+
